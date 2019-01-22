@@ -1,0 +1,95 @@
+body{
+    background-size: 100%;
+    background-image: url(photo/image0.jpg66);
+    background-size: cover;
+}
+.navbar {
+    background-color:rgba(219, 212, 212, 0.2);
+    text-decoration-color: black;
+}
+#conteneur{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5x;
+}
+.manip{
+    background-image: url(photo/image0.jpg3);
+    background-size: cover;
+    opacity:0.8;
+    height: 350px;
+    width: 350px;
+    box-shadow: 6px 5px 3px black;
+    background-color: rgba(212, 229, 243, 0.1);
+    box-shadow: 10px 10px 10px 10px  rgb(250, 247, 247);
+}
+.manip1{
+    background-image: url(photo/guii.jpeg1);
+    background-size: 80%;
+    opacity: 0.8;
+    height: 350px;
+    width: 350px;
+    box-shadow: 6px 5px 3px black;
+    background-color: rgba(212, 229, 243, 0.1);
+    box-shadow: 10px 10px 10px 10px rgb(250, 247, 247);
+
+}
+.manip2{
+    background-image: url(photo/juliaa.jpeg);
+    background-size:90%;
+    opacity: 0.8;
+    height: 350px;
+    width: 350px;
+    box-shadow: 6px 5px 3px black;
+    background-color: rgba(212, 229, 243, 0.1);
+    box-shadow: 10px 10px 10px 10px rgb(248, 245, 245);
+}
+.manip3{
+    background-image: url(photo/image0.jpg5);
+    background-size: cover;
+    height: 350px;
+    width: 350px;
+    box-shadow: 6px 5px 3px black;
+    background-color: rgba(212, 229, 243, 0.1);
+    box-shadow: 10px 10px 10px 10px rgb(252, 249, 249);
+}
+#nous{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(238, 194, 128);
+    letter-spacing: 5px;
+    font-size: 15px;
+    font-style: oblique;
+    text-shadow: 3px 3px 3px rgb(240, 6, 6);
+}
+.jp{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.guillaume{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 45px;
+}
+.julia{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 45px;
+
+}
+.christophe{
+    width: 350px;
+    height: 30px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+.texte{
+    color: rgb(245, 150, 150);
+    font-size: 2em;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow: 3px 3px 3px rgb(240, 6, 6);
+}
